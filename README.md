@@ -4,10 +4,10 @@
 ---
 #### How to run
 1. Clone the repository
-  ```bash
-  git clone https://github.com/akashrawat2/credit_card_fraud_detection.git
-  cd credit_card_fraud_detection
-  ```
+    ```bash
+    git clone https://github.com/akashrawat2/credit_card_fraud_detection.git
+    cd credit_card_fraud_detection
+    ```
 2. Create python virtual environment
    ```bash
    python -m venv venv
